@@ -21,10 +21,9 @@ raccourcir éventuellement les noms de variables (optionnel) ;
 regrouper le code pour qu’il tienne dans le moins d’octets possible.
 
 Le but n'est pas de rendre le code lisible, mais compact.
-
 2. Règles de base pour minifier manuellement
-1. Supprimer les retours à la ligne
-2. Supprimer les espaces inutiles
-3. Supprimer les commentaires
-4. Retirer les guillemets inutiles en CSS
-5. Raccourcir les noms des variables si possible
+  1. Supprimer les retours à la ligne
+  2. Supprimer les espaces inutiles
+  3. Supprimer les commentaires
+  4. Retirer les guillemets inutiles en CSS
+  5. Raccourcir les noms des variables si possible
